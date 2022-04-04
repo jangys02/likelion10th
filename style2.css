@@ -1,0 +1,21 @@
+
+
+main{
+    padding: 30px; 
+    background-color:rgb(229,244,231);
+}
+
+.header{
+    text-align : center;
+}
+
+
+.content{
+    padding: 30px;
+   color: rgb(142,178,105);
+   border: 2px solid rgb(57,119,116)
+}
+
+.cube{
+    color: rgb(86, 117, 54);
+}
